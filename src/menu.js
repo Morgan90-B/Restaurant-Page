@@ -18,7 +18,7 @@ export default function menuDisplay() {
     cont1.setAttribute("class","cont")
     const item1=document.createElement("img");
     item1.setAttribute("class","item");
-    item1.setAttribute("src","../src/images/meals/breadavo.jpg");
+    item1.setAttribute("src","/images/meals/breadavo.jpg");
     const mincont1=document.createElement("div");
     mincont1.setAttribute("class","mincont");
     const text1=document.createElement("p");
@@ -35,7 +35,7 @@ export default function menuDisplay() {
     cont2.setAttribute("class","cont");
     const item2=document.createElement("img");
     item2.setAttribute("class","item");
-    item2.setAttribute("src","../src/images/meals/chees-greens.jpg");
+    item2.setAttribute("src","/images/meals/chees-greens.jpg");
     const mincont2=document.createElement("div");
     mincont2.setAttribute("class","mincont");
     const text2=document.createElement("p");
@@ -52,7 +52,7 @@ export default function menuDisplay() {
     cont3.setAttribute("class","cont");
     const item3=document.createElement("img");
     item3.setAttribute("class","item");
-    item3.setAttribute("src","../src/images/meals/meat-corn.jpg");
+    item3.setAttribute("src","/images/meals/meat-corn.jpg");
     const mincont3=document.createElement("div");
     mincont3.setAttribute("class","mincont");
     const text3=document.createElement("p");
@@ -69,7 +69,7 @@ export default function menuDisplay() {
     cont4.setAttribute("class","cont");
     const item4=document.createElement("img");
     item4.setAttribute("class","item");
-    item4.setAttribute("src","../src/images/meals/sticks.jpg");
+    item4.setAttribute("src","/images/meals/sticks.jpg");
     const mincont4=document.createElement("div");
     mincont4.setAttribute("class","mincont");
     const text4=document.createElement("p");

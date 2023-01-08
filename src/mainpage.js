@@ -46,7 +46,7 @@ export function domSetupMain(){
     const statement=document.createElement("h3");
     statement.innerText="The Place Where Soul Food Is Born";
     const image=document.createElement("img");
-    image.setAttribute("src","../src/images/steak.webp");
+    image.setAttribute("src","/images/steak.webp");
 
     mainpart.appendChild(statement);
     mainpart.appendChild(image);
